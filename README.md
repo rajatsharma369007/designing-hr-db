@@ -5,8 +5,8 @@ In this project, I have designed, built, and populated a database for the Human 
 ## Business Scenario
 Tech ABC Corp saw explosive growth with a sudden appearance onto the gaming scene with its new AI-powered video game console. As a result, they have gone from a small 10 person operation to 200 employees and 5 locations in under a year. HR is having trouble keeping up with the growth since they are still maintaining employee information in a spreadsheet. While that worked for ten employees, it has become increasingly cumbersome to manage as the company expands.
 
-[Link to the sample data](https://video.udacity-data.com/topher/2020/July/5f2452ca_hr-dataset/hr-dataset.xlsx)
-[Link to the Proposal Document](https://github.com/rajatsharma369007/designing-hr-db/blob/main/Document/Proposal%20Document.pdf)
+* [Link to the sample data](https://video.udacity-data.com/topher/2020/July/5f2452ca_hr-dataset/hr-dataset.xlsx)
+* [Link to the Proposal Document](https://github.com/rajatsharma369007/designing-hr-db/blob/main/Document/Proposal%20Document.pdf)
 
 ## Project Steps
 
